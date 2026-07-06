@@ -2,5 +2,7 @@
 组员：粟瞳、陈斌、胡芷瑜
 
 软件详情请见作业报告和演示录屏
-演示录屏地址：https://disk.pku.edu.cn/link/AA1826EF22F56D4420876A1DA0CB17AF72
-有效期限：2026-08-31 12:54
+演示录屏地址：https://disk.pku.edu.cn/link/AAEE92D72F00714CD3AADECCDAC64B3295
+文件名：95-演示.mp4
+无提取码
+有效期限：2026-09-05 13:02
